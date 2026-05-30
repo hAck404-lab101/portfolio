@@ -393,10 +393,9 @@ Launch
 <br/>
 
 **Godwin Sozo Kumah**
-Ho, Ghana
+Accra, Ghana
 `kumahgodwin32@gmail.com`
 `github.com/hAck404-lab101`
-`grimveil.shop`
 
 <br/>
 
