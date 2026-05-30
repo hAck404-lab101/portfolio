@@ -257,7 +257,7 @@ A hotel website focused on online presence, customer trust, and booking visibili
 <tr>
 <td width="50%">
 
-    🏥 UEWDEPT / RenewMedGH
+    🏥 RenewMedGH
 
 A service website for nurses and health professionals who need CPD points and license renewal support.
 
@@ -392,10 +392,9 @@ Launch
 
 <br/>
 
-**Godwin Sozo Kumah**
+<b>Godwin Sozo Kumah</b>
 Accra, Ghana
-`kumahgodwin32@gmail.com`
-`github.com/hAck404-lab101`
+kumahgodwin32@gmail.com
 
 <br/>
 
