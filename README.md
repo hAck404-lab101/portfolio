@@ -14,9 +14,6 @@
 <a href="https://github.com/hAck404-lab101">
   <img src="https://img.shields.io/badge/GitHub-hAck404--lab101-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://grimveil.shop">
-  <img src="https://img.shields.io/badge/Brand-Grimveil-black?style=for-the-badge&logo=shopify&logoColor=white" />
-</a>
 
 <br/><br/>
 
