@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## Minimal. Practical. Business-ready.
+   Minimal. Practical. Business-ready.
 
 I create modern websites, dashboards, management systems, online stores, and digital platforms for brands, schools, businesses, and organizations.
 
@@ -40,13 +40,13 @@ I create modern websites, dashboards, management systems, online stores, and dig
 
 ---
 
-## What I Do
+   What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Full-Stack Development
+    💻 Full-Stack Development
 
 Complete web platforms with frontend, backend, database, authentication, dashboards, APIs, and deployment.
 
@@ -57,7 +57,7 @@ Complete web platforms with frontend, backend, database, authentication, dashboa
 </td>
 <td width="50%">
 
-### 🎨 UI/UX & Frontend
+    🎨 UI/UX & Frontend
 
 Clean, responsive, minimalist interfaces for landing pages, dashboards, product pages, and business websites.
 
@@ -71,7 +71,7 @@ Clean, responsive, minimalist interfaces for landing pages, dashboards, product 
 <tr>
 <td width="50%">
 
-### 🌐 WordPress & CMS
+    🌐 WordPress & CMS
 
 Professional websites, WooCommerce stores, blogs, business pages, and content management systems.
 
@@ -82,7 +82,7 @@ Professional websites, WooCommerce stores, blogs, business pages, and content ma
 </td>
 <td width="50%">
 
-### 📸 Creative Media
+    📸 Creative Media
 
 Brand visuals, photography, social media designs, digital posters, ad banners, and content direction.
 
@@ -96,7 +96,7 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 
 ---
 
-## Tech Stack
+   Tech Stack
 
 <div align="center">
 
@@ -106,13 +106,13 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 
 ---
 
-## Project Categories
+   Project Categories
 
 <table>
 <tr>
 <td width="33%">
 
-### 🎓 Education Systems
+    🎓 Education Systems
 
 * Dues Management System
 * Online Class Timetable
@@ -123,7 +123,7 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 </td>
 <td width="33%">
 
-### 🏥 Healthcare Systems
+    🏥 Healthcare Systems
 
 * Hospital Patient System
 * Intern Attendance System
@@ -134,7 +134,7 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 </td>
 <td width="33%">
 
-### 🛒 E-Commerce
+    🛒 E-Commerce
 
 * Grimveil
 * UEW Gadgets
@@ -148,7 +148,7 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 <tr>
 <td width="33%">
 
-### 🏨 Hospitality
+    🏨 Hospitality
 
 * Royal Hawk Hotel Website
 * Hotel landing pages
@@ -159,7 +159,7 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 </td>
 <td width="33%">
 
-### 🌾 Agriculture & Logistics
+    🌾 Agriculture & Logistics
 
 * AgroConnect
 * Farmer marketplace
@@ -170,7 +170,7 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 </td>
 <td width="33%">
 
-### 🧾 Business Systems
+    🧾 Business Systems
 
 * Restaurant POS
 * Constituency System
@@ -184,13 +184,13 @@ Brand visuals, photography, social media designs, digital posters, ad banners, a
 
 ---
 
-## Featured Work
+   Featured Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 💳 Dues Management System
+    💳 Dues Management System
 
 A departmental platform for managing student dues, payments, records, and admin operations.
 
@@ -207,7 +207,7 @@ A departmental platform for managing student dues, payments, records, and admin 
 </td>
 <td width="50%">
 
-### 🌾 AgroConnect
+    🌾 AgroConnect
 
 A B2B agriculture platform connecting farmers, buyers, and transport services.
 
@@ -226,7 +226,7 @@ A B2B agriculture platform connecting farmers, buyers, and transport services.
 <tr>
 <td width="50%">
 
-### 🛍️ Grimveil
+    🛍️ Grimveil
 
 A clothing brand and e-commerce store built around fashion, hustle, and identity.
 
@@ -242,7 +242,7 @@ A clothing brand and e-commerce store built around fashion, hustle, and identity
 </td>
 <td width="50%">
 
-### 🏨 Royal Hawk Hotel
+    🏨 Royal Hawk Hotel
 
 A hotel website focused on online presence, customer trust, and booking visibility.
 
@@ -257,7 +257,7 @@ A hotel website focused on online presence, customer trust, and booking visibili
 <tr>
 <td width="50%">
 
-### 🏥 UEWDEPT / RenewMedGH
+    🏥 UEWDEPT / RenewMedGH
 
 A service website for nurses and health professionals who need CPD points and license renewal support.
 
@@ -269,7 +269,7 @@ A service website for nurses and health professionals who need CPD points and li
 </td>
 <td width="50%">
 
-### 🍽️ Restaurant POS Concept
+    🍽️ Restaurant POS Concept
 
 An AI-powered restaurant POS system concept for sales, orders, menu control, and analytics.
 
@@ -284,7 +284,7 @@ An AI-powered restaurant POS system concept for sales, orders, menu control, and
 
 ---
 
-## Roles I Can Handle
+   Roles I Can Handle
 
 <div align="center">
 
@@ -301,7 +301,7 @@ An AI-powered restaurant POS system concept for sales, orders, menu control, and
 
 ---
 
-## Workflow
+   Workflow
 
 <div align="center">
 
@@ -315,28 +315,28 @@ Idea → UI Design → Development → Testing → Deployment → Improvement
 <tr>
 <td align="center" width="25%">
 
-### 01
+    01
 
 Plan
 
 </td>
 <td align="center" width="25%">
 
-### 02
+    02
 
 Design
 
 </td>
 <td align="center" width="25%">
 
-### 03
+    03
 
 Build
 
 </td>
 <td align="center" width="25%">
 
-### 04
+    04
 
 Launch
 
@@ -346,7 +346,7 @@ Launch
 
 ---
 
-## Current Focus
+   Current Focus
 
 <table>
 <tr>
@@ -368,7 +368,7 @@ Launch
 
 ---
 
-## GitHub Activity
+   GitHub Activity
 
 <div align="center">
 
@@ -384,11 +384,11 @@ Launch
 
 ---
 
-## Contact
+   Contact
 
 <div align="center">
 
-### Let’s build something clean, useful, and real.
+    Let’s build something clean, useful, and real.
 
 <br/>
 
